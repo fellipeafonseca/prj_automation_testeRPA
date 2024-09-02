@@ -24,7 +24,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## Apresentação
 
-Leitura e input de dados em sistema web de maneira dinâmica (https://www.rpachallenge.com/).
+Leitura e manipulação de arquivos para input de dados em sistema web com seletores dinâmicos (https://www.rpachallenge.com/).
 
 Componentes utilizados:
 - Leitura e manipulação de arquivos excel;
